@@ -1,0 +1,17 @@
+{
+    "manifest_version":2,
+	"name":"github white nav",
+    "version":"0.1",
+    "description":"将 github nav 变为白色",
+    "content_scripts":[
+        {
+            "js":[
+                "diy.js"
+            ],
+            "matches":[
+                "https://github.com/*"
+            ],
+			"run_at":"document_idle"
+        }
+    ]
+}
