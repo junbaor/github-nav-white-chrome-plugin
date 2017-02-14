@@ -1,5 +1,7 @@
 # github-nav-white-chrome-plugin
 
+> 声明:由于 github 升级, 插件已失效。  
+
 参考 chrome extensions 文档:  
 https://developer.chrome.com/extensions  
 https://developer.chrome.com/extensions/content_scripts  
